@@ -6,6 +6,7 @@
         <Label text="{{ message }}" class="text-lg text-center text-gray-400" textWrap="true" />
 
 
+        <Label text="Test" class="text-3xl text-center" />
 
     </StackLayout>
 </Page>
