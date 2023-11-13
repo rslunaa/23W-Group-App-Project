@@ -1,5 +1,3 @@
-# 23W-Group-App-Project
-
 # PantryPro - Your Kitchen Companion
 
 PantryPro is a mobile application that simplifies meal planning by helping users find recipes based on the ingredients they have at home. This README provides an overview of the app's functionality and how to use it.
